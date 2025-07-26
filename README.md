@@ -1,3 +1,5 @@
+Scrapping bitcoin Database : Wallet address -> Wallet private key
+
 1. Packages used->   pip install requests beautifulsoup4 pandas fake-useragent tqdm urllib3
 
 2. Optional (if using proxies or advanced features):
